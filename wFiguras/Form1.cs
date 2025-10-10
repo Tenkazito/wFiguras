@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace wFiguras
 {
-    public partial class Form1 : Form
+    public partial class frmFormulario : Form
     {
-        public Form1()
+        public frmFormulario()
         {
             InitializeComponent();
         }
