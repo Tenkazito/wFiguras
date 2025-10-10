@@ -30,18 +30,6 @@ namespace wFiguras
             cmbFigura.SelectedIndex = 0;
         }
 
-        private void pictureBoxColor_Click(object sender, EventArgs e)
-        {
-            using (ColorDialog colorDialog = new ColorDialog())
-            {
-                if (colorDialog.ShowDialog() == DialogResult.OK)
-                {
-                    colorSeleccionado = colorDialog.Color;
-                    pictureBoxColor.BackColor = colorSeleccionado;
-                }
-            }
-        }
-
         private void btnCrear_Click(object sender, EventArgs e)
         {
             if (!int.TryParse(txtX.Text, out int x) || !int.TryParse(txtY.Text, out int y))
@@ -80,6 +68,18 @@ namespace wFiguras
             foreach (Figura figura in figuras)
             {
                 figura.Dibujar(e.Graphics);
+            }
+        }
+
+        private void pictureBoxColor_Click_1(object sender, EventArgs e)
+        {
+            using (ColorDialog colorDialog = new ColorDialog())
+            {
+                if (colorDialog.ShowDialog() == DialogResult.OK)
+                {
+                    colorSeleccionado = colorDialog.Color;
+                    pictureBoxColor.BackColor = colorSeleccionado;
+                }
             }
         }
     }

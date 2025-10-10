@@ -84,6 +84,7 @@
             this.pictureBoxColor.Size = new System.Drawing.Size(39, 37);
             this.pictureBoxColor.TabIndex = 4;
             this.pictureBoxColor.TabStop = false;
+            this.pictureBoxColor.Click += new System.EventHandler(this.pictureBoxColor_Click_1);
             // 
             // cmbFigura
             // 
