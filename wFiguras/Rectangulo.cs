@@ -21,10 +21,8 @@ namespace wFiguras
 
         public override void Dibujar(Graphics g)
         {
-            using (Pen lapiz = new Pen(Color))
-            {
-                g.DrawRectangle(lapiz, Posicion.X, Posicion.Y, Ancho, Largo);
-            }
+            using (Brush brocha = new SolidBrush(Color))
+                g.FillRectangle(brocha, Posicion.X, Posicion.Y, Ancho, Largo);
         }
     }
 }
