@@ -11,10 +11,10 @@ namespace wFiguras
     {
         public Point Fin { get; set; }
 
-        public Linea(Point inicio, Point fin, Color color)
-            : base(inicio, color)
+        public Linea(Point posicion, Color color)
+            : base(posicion, color)
         {
-            Fin = fin;
+            Fin = new Point(posicion.X + 50, posicion.Y);
         }
 
         public override void Dibujar(Graphics g)

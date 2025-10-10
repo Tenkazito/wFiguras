@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\source\\repos\\wfiguras\\wfiguras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +47,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Form1.cs",
+              "RelativeDocumentMoniker": "wFiguras\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Form1.cs",
+              "RelativeToolTip": "wFiguras\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:34:39.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiguraFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\FiguraFactory.cs",
+              "RelativeDocumentMoniker": "wFiguras\\FiguraFactory.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\FiguraFactory.cs",
+              "RelativeToolTip": "wFiguras\\FiguraFactory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:14:33.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Linea.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Linea.cs",
+              "RelativeDocumentMoniker": "wFiguras\\Linea.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Linea.cs",
+              "RelativeToolTip": "wFiguras\\Linea.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:02:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Triangulo.cs",
+              "RelativeDocumentMoniker": "wFiguras\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Triangulo.cs",
+              "RelativeToolTip": "wFiguras\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:58:22.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Circulo.cs",
+              "RelativeDocumentMoniker": "wFiguras\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Circulo.cs",
+              "RelativeToolTip": "wFiguras\\Circulo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:49:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "wFiguras\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Rectangulo.cs",
+              "RelativeToolTip": "wFiguras\\Rectangulo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:46:08.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Figura.cs",
+              "RelativeDocumentMoniker": "wFiguras\\Figura.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Figura.cs",
+              "RelativeToolTip": "wFiguras\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:40:15.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Tenkazu\\source\\repos\\wFiguras\\wFiguras\\Form1.cs",
               "RelativeDocumentMoniker": "wFiguras\\Form1.cs",
