@@ -17,6 +17,7 @@ namespace wFiguras
             crearComboBox();
             txtContador.ReadOnly = true;
             pictureBoxColor.BackColor = colorSeleccionado;
+            configurarVisibilidad(false);
             this.Paint += frmFormulario_Paint;
         }
 
@@ -32,7 +33,9 @@ namespace wFiguras
 
         private void btnCrear_Click(object sender, EventArgs e)
         {
-            if (!int.TryParse(txtX.Text, out int x) || !int.TryParse(txtY.Text, out int y))
+            int valorBaseX = (int)nudXBase.Value;
+            int valorBaseY = (int)nudYBase.Value;
+            if (valorBaseX < 0 || valorBaseY < 0)
             {
                 MessageBox.Show("Por favor, ingresa valores numéricos válidos para X e Y.", "Error de entrada", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -41,7 +44,7 @@ namespace wFiguras
             try
             {
                 string tipo = cmbFigura.SelectedItem.ToString();
-                Figura figura = FiguraFactory.CrearFigura(tipo, new Point(x, y), colorSeleccionado);
+                Figura figura = FiguraFactory.CrearFigura(tipo, new Point(valorBaseX, valorBaseY), colorSeleccionado);
 
                 if (figura != null)
                 {
@@ -49,10 +52,7 @@ namespace wFiguras
                     contador++;
                     txtContador.Text = contador.ToString();
 
-                    txtX.Clear();
-                    txtY.Clear();
                     cmbFigura.SelectedIndex = 0;
-                    txtX.Focus();
 
                     this.Invalidate();
                 }
@@ -81,6 +81,32 @@ namespace wFiguras
                     pictureBoxColor.BackColor = colorSeleccionado;
                 }
             }
+        }
+
+        private void cmbFigura_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string tipo = cmbFigura.SelectedItem.ToString();
+            if (tipo == "Linea")
+            {
+                configurarVisibilidad(true);
+                lblTamaño.Visible = false;
+                nudTamaño.Visible = false;
+            }
+            else
+            {
+                configurarVisibilidad(false);
+                lblTamaño.Visible = true;
+                nudTamaño.Visible = true;
+            }
+        }
+
+        private void configurarVisibilidad(bool activo)
+        {
+            lblSegundaPosicion.Visible = activo;
+            lblXDos.Visible = activo;
+            nudXSegundaPosicion.Visible = activo;
+            lblYDos.Visible = activo;
+            nudYSegundaPosicion.Visible = activo;
         }
     }
 }
