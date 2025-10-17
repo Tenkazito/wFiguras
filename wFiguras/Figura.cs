@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace wFiguras
 {
@@ -17,7 +18,16 @@ namespace wFiguras
             Posicion = posicion;
             Color = color;
         }
+        protected bool EstaDentroDeLimites(Rectangle area, PictureBox pb)
+        {
+            return pb.ClientRectangle.Contains(area);
+        }
+        protected bool EstaDentroDeLimites(Point p1, Point p2, PictureBox pb)
+        {
+            return pb.ClientRectangle.Contains(p1) && pb.ClientRectangle.Contains(p2);
+        }
 
-        public abstract void Dibujar(Graphics g);
+        public abstract bool Dibujar(Graphics g, PictureBox pb);
+
     }
 }

@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace wFiguras
 {
@@ -16,11 +17,19 @@ namespace wFiguras
         {
             Fin = posicion2;
         }
-
-        public override void Dibujar(Graphics g)
+        public override bool Dibujar(Graphics g, PictureBox pb)
         {
+            if (!EstaDentroDeLimites(Posicion, Fin, pb))
+            {
+                MessageBox.Show("Error: Puntos de la línea fuera del lienzo.",
+                                "Error de límites", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
             using (Pen lapiz = new Pen(Color, 2))
                 g.DrawLine(lapiz, Posicion, Fin);
+
+            return true;
         }
     }
 }

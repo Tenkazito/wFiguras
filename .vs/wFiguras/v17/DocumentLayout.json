@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\wFiguras\\",
+  "WorkspaceRootPath": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\usuario\\desktop\\wfiguras\\wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\usuario\\desktop\\wfiguras\\wfiguras\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|c:\\users\\tenkazu\\desktop\\prueba\\wfiguras\\wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Usuario\\Desktop\\wFiguras\\wfiguras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wfiguras\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87968F33-BC0B-49EC-9FE2-407B6D3D66A1}|wFiguras\\wFiguras.csproj|solutionrelative:wfiguras\\figurafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "wFiguras\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Form1.Designer.cs*",
-              "RelativeToolTip": "wFiguras\\Form1.Designer.cs*",
-              "ViewState": "AgIAAOMAAAAAAAAAAAD4v/AAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Form1.Designer.cs",
+              "RelativeToolTip": "wFiguras\\Form1.Designer.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAYwEMBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T00:16:59.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Form1.cs",
               "RelativeDocumentMoniker": "wFiguras\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Form1.cs*",
-              "RelativeToolTip": "wFiguras\\Form1.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Form1.cs",
+              "RelativeToolTip": "wFiguras\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T19:34:39.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Linea.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Linea.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Linea.cs",
               "RelativeDocumentMoniker": "wFiguras\\Linea.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Linea.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Linea.cs",
               "RelativeToolTip": "wFiguras\\Linea.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T19:02:17.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Triangulo.cs",
               "RelativeDocumentMoniker": "wFiguras\\Triangulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Triangulo.cs",
               "RelativeToolTip": "wFiguras\\Triangulo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwB8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T18:58:22.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Circulo.cs",
               "RelativeDocumentMoniker": "wFiguras\\Circulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Circulo.cs",
               "RelativeToolTip": "wFiguras\\Circulo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T18:49:32.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Rectangulo.cs",
               "RelativeDocumentMoniker": "wFiguras\\Rectangulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Rectangulo.cs",
               "RelativeToolTip": "wFiguras\\Rectangulo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T18:46:08.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Figura.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Figura.cs",
               "RelativeDocumentMoniker": "wFiguras\\Figura.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Figura.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Figura.cs",
               "RelativeToolTip": "wFiguras\\Figura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T18:40:15.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Form1.cs",
               "RelativeDocumentMoniker": "wFiguras\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\Form1.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "wFiguras\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "wFiguras\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T18:29:24.074Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FiguraFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\FiguraFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\FiguraFactory.cs",
               "RelativeDocumentMoniker": "wFiguras\\FiguraFactory.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\wFiguras\\wFiguras\\FiguraFactory.cs",
+              "ToolTip": "C:\\Users\\Tenkazu\\Desktop\\prueba\\wFiguras\\wFiguras\\FiguraFactory.cs",
               "RelativeToolTip": "wFiguras\\FiguraFactory.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T19:14:33.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T19:14:33.297Z"
             }
           ]
         }
