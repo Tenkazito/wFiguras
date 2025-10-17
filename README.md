@@ -54,18 +54,18 @@ Presionar “Crear” para dibujar el sticker.
 Limpiar con “Limpiar lienzo”.
 
 ## Autores
-Juan Diego Naranjo Mora
-Alejandro Giraldo Salazar
-Grupo: G-002
-Asignatura: Herramientas de Programacion II
-Semestre 4
+Juan Diego Naranjo Mora, 
+Alejandro Giraldo Salazar, 
+Grupo: G-002, 
+Asignatura: Herramientas de Programacion II, 
+Semestre 4 
 
 
 # Capturas de la aplicación funcionando (casos de prueba)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image1.png)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image2.png)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image3.png)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image4.png)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image5.png)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image6.png)
-![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/images/image7.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image1.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image2.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image3.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image4.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image5.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image6.png)
+![Imagen de aplicacion en funcionamiento](https://github.com/Tenkazito/wFiguras/blob/main/images/image7.png)
