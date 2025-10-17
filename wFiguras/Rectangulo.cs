@@ -14,7 +14,7 @@ namespace wFiguras
         public Rectangulo(Point posicion, Color color, int tamaño)
             : base(posicion, color)
         {
-            Tamaño = Tamaño;
+            Tamaño = tamaño;
         }
 
         public override void Dibujar(Graphics g)

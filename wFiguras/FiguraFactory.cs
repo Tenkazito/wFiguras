@@ -5,7 +5,7 @@ namespace wFiguras
 {
     public static class FiguraFactory
     {
-        public static Figura CrearFigura(string tipo, Point posicion, Color color, Point posicion2 = default, int tamaño = 0 )
+        public static Figura CrearFigura(string tipo, Point posicion, Color color, Point posicion2, int tamaño)
         {
             switch (tipo)
             {

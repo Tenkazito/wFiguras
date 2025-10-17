@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -18,7 +19,7 @@ namespace wFiguras
             txtContador.ReadOnly = true;
             pictureBoxColor.BackColor = colorSeleccionado;
             configurarVisibilidad(false);
-            this.Paint += frmFormulario_Paint;
+            pictureBoxLienzo.Paint += pictureBoxLienzo_Paint;
         }
 
         private void crearComboBox()
@@ -33,18 +34,26 @@ namespace wFiguras
 
         private void btnCrear_Click(object sender, EventArgs e)
         {
+            string tipo = cmbFigura.SelectedItem.ToString();
             int valorBaseX = (int)nudXBase.Value;
             int valorBaseY = (int)nudYBase.Value;
-            if (valorBaseX < 0 || valorBaseY < 0)
+            int tamaño = (int)nudTamaño.Value;
+            int valorExtraX = (int)nudXSegundaPosicion.Value;
+            int valorExtraY = (int)nudYSegundaPosicion.Value;
+            if (tipo == "Linea" && (valorExtraX == 0 || valorExtraY == 0))
             {
-                MessageBox.Show("Por favor, ingresa valores numéricos válidos para X e Y.", "Error de entrada", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Por favor, ingresa valores numéricos válidos para los campos de la segunda posicion.", "Error de entrada", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            if (valorBaseX < 0 || valorBaseY < 0 || (tipo != "Linea" && tamaño == 0))
+            {
+                MessageBox.Show("Por favor, ingresa valores numéricos válidos para los campos.", "Error de entrada", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
             try
             {
-                string tipo = cmbFigura.SelectedItem.ToString();
-                Figura figura = FiguraFactory.CrearFigura(tipo, new Point(valorBaseX, valorBaseY), colorSeleccionado);
+                Figura figura = FiguraFactory.CrearFigura(tipo, new Point(valorBaseX, valorBaseY), colorSeleccionado, new Point(valorExtraX, valorExtraY), tamaño);
 
                 if (figura != null)
                 {
@@ -54,20 +63,12 @@ namespace wFiguras
 
                     cmbFigura.SelectedIndex = 0;
 
-                    this.Invalidate();
+                    pictureBoxLienzo.Invalidate();
                 }
             }
             catch (ArgumentException ex)
             {
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-
-        private void frmFormulario_Paint(object sender, PaintEventArgs e)
-        {
-            foreach (Figura figura in figuras)
-            {
-                figura.Dibujar(e.Graphics);
             }
         }
 
@@ -107,6 +108,14 @@ namespace wFiguras
             nudXSegundaPosicion.Visible = activo;
             lblYDos.Visible = activo;
             nudYSegundaPosicion.Visible = activo;
+        }
+
+        private void pictureBoxLienzo_Paint(object sender, PaintEventArgs e)
+        {
+            foreach (Figura figura in figuras)
+            {
+                figura.Dibujar(e.Graphics);
+            }
         }
     }
 }
