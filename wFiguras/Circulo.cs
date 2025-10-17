@@ -9,18 +9,18 @@ namespace wFiguras
 {
     public class Circulo : Figura
     {
-        public int Radio { get; set; }
+        public int Tamaño { get; set; }
 
-        public Circulo(Point posicion, Color color, int radio)
+        public Circulo(Point posicion, Color color, int tamaño)
             : base(posicion, color)
         {
-            Radio = radio;
+            Tamaño = tamaño;
         }
 
         public override void Dibujar(Graphics g)
         {
             using (Brush brocha = new SolidBrush(Color))
-                g.FillEllipse(brocha, Posicion.X, Posicion.Y, Radio * 2, Radio * 2);
+                g.FillEllipse(brocha, Posicion.X, Posicion.Y, Tamaño, Tamaño);
         }
     }
 }

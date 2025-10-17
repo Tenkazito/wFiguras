@@ -9,14 +9,12 @@ namespace wFiguras
 {
     public class Triangulo : Figura
     {
-        public int Base { get; set; }
-        public int Altura { get; set; }
+        public int Tamaño { get; set; }
 
-        public Triangulo(Point posicion, Color color, int baseTriangulo, int altura)
+        public Triangulo(Point posicion, Color color, int tamaño)
             : base(posicion, color)
         {
-            Base = baseTriangulo;
-            Altura = altura;
+            Tamaño = tamaño;
         }
 
         public override void Dibujar(Graphics g)
@@ -24,8 +22,8 @@ namespace wFiguras
             Point[] puntos =
             {
                 Posicion,
-                new Point(Posicion.X + Base, Posicion.Y),
-                new Point(Posicion.X + Base / 2, Posicion.Y - Altura)
+                new Point(Posicion.X + Tamaño, Posicion.Y),
+                new Point(Posicion.X + Tamaño / 2, Posicion.Y - Tamaño)
             };
 
             using (Brush brocha = new SolidBrush(Color))
