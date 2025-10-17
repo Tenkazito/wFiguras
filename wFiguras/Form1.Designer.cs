@@ -139,6 +139,11 @@
             // nudXBase
             // 
             this.nudXBase.Location = new System.Drawing.Point(285, 135);
+            this.nudXBase.Maximum = new decimal(new int[] {
+            1500,
+            0,
+            0,
+            0});
             this.nudXBase.Name = "nudXBase";
             this.nudXBase.Size = new System.Drawing.Size(120, 22);
             this.nudXBase.TabIndex = 11;
@@ -146,6 +151,11 @@
             // nudYBase
             // 
             this.nudYBase.Location = new System.Drawing.Point(435, 135);
+            this.nudYBase.Maximum = new decimal(new int[] {
+            1500,
+            0,
+            0,
+            0});
             this.nudYBase.Name = "nudYBase";
             this.nudYBase.Size = new System.Drawing.Size(120, 22);
             this.nudYBase.TabIndex = 12;
@@ -173,6 +183,11 @@
             // nudTamaño
             // 
             this.nudTamaño.Location = new System.Drawing.Point(641, 135);
+            this.nudTamaño.Maximum = new decimal(new int[] {
+            1500,
+            0,
+            0,
+            0});
             this.nudTamaño.Name = "nudTamaño";
             this.nudTamaño.Size = new System.Drawing.Size(120, 22);
             this.nudTamaño.TabIndex = 15;
@@ -190,6 +205,11 @@
             // nudYSegundaPosicion
             // 
             this.nudYSegundaPosicion.Location = new System.Drawing.Point(435, 172);
+            this.nudYSegundaPosicion.Maximum = new decimal(new int[] {
+            1500,
+            0,
+            0,
+            0});
             this.nudYSegundaPosicion.Name = "nudYSegundaPosicion";
             this.nudYSegundaPosicion.Size = new System.Drawing.Size(120, 22);
             this.nudYSegundaPosicion.TabIndex = 19;
@@ -197,6 +217,11 @@
             // nudXSegundaPosicion
             // 
             this.nudXSegundaPosicion.Location = new System.Drawing.Point(285, 172);
+            this.nudXSegundaPosicion.Maximum = new decimal(new int[] {
+            1500,
+            0,
+            0,
+            0});
             this.nudXSegundaPosicion.Name = "nudXSegundaPosicion";
             this.nudXSegundaPosicion.Size = new System.Drawing.Size(120, 22);
             this.nudXSegundaPosicion.TabIndex = 18;
