@@ -20,6 +20,7 @@ namespace wFiguras
             pictureBoxColor.BackColor = colorSeleccionado;
             configurarVisibilidad(false);
             pictureBoxLienzo.Paint += pictureBoxLienzo_Paint;
+            pictureBoxLienzo.BackColor = Color.White;
         }
 
         private void crearComboBox()
@@ -62,7 +63,7 @@ namespace wFiguras
                     txtContador.Text = contador.ToString();
 
                     cmbFigura.SelectedIndex = 0;
-
+                    limpiarCampos();
                     pictureBoxLienzo.Invalidate();
                 }
             }
@@ -116,6 +117,23 @@ namespace wFiguras
             {
                 figura.Dibujar(e.Graphics);
             }
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            figuras.Clear();
+            contador = 0;
+            txtContador.Text = "0";
+            pictureBoxLienzo.Invalidate();
+        }
+
+        private void limpiarCampos()
+        {
+            nudXBase.Value = 0;
+            nudYBase.Value = 0;
+            nudTamaño.Value = 0;
+            nudXSegundaPosicion.Value = 0;
+            nudYSegundaPosicion.Value = 0;
         }
     }
 }
